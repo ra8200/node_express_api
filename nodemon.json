@@ -1,0 +1,7 @@
+{
+    "watch": ["*.js", "routes/*.js"],
+    "ext": "js",
+    "exec": "node --experimental-specifier-resolution=node  --no-warnings",
+    "ignore": ["node_modules"]
+  }
+  
